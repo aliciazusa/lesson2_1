@@ -1,1 +1,1 @@
-# pythonlesson0823_13上課內容
+# lesson2_1上課內容
